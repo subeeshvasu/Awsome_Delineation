@@ -56,6 +56,8 @@ A curated list of resources for Delineation
 
 + 2020-WACV - City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Van_Etten_City-Scale_Road_Extraction_from_Satellite_Imagery_v2_Road_Speeds_and_WACV_2020_paper.html)
 
++ 2020-CVPR - VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction.
+
 
 **Datasets**
 
