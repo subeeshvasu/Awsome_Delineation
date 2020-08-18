@@ -58,6 +58,10 @@ A curated list of resources for Delineation
 
 + 2020-CVPR - VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction. [[Paper]](http://mftp.mmcheng.net/Papers/20CvprVecRoad.pdf)[[Project Page]](https://mmcheng.net/vecroad/)
 
++ 2020-ECCV - TopoGAN: A Topology-Aware Generative Adversarial Network. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)[[Supple]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120-supp.pdf)
+
++ 2020-ECCV - TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf)[[Project Page]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222-supp.pdf)
+
 
 **Datasets**
 
