@@ -48,6 +48,8 @@ A curated list of resources for Delineation
 
 + 2019-ICCV - Topological map extraction from overhead images. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.html)
 
++ 2019-NIPS - Topology-Preserving Deep Image Segmentation. [[Paper]](https://papers.nips.cc/paper/8803-topology-preserving-deep-image-segmentation.pdf)[[Code1]](https://github.com/HuXiaoling/TopoLoss)[[Code2]](https://github.com/HuXiaoling/imageSeg-2.5D_topo)
+
 + 2019-TGRS - Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net. [[Paper]](https://ieeexplore.ieee.org/document/8714072)
 
 + 2019-TPAMI - Joint Segmentation and Path Classication of Curvilinear Structures. [[Paper]](https://arxiv.org/abs/1905.03892)
