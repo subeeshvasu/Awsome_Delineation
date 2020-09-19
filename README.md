@@ -64,6 +64,8 @@ A curated list of resources for Delineation
 
 + 2020-ECCV - TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf)
 
++ 2020 - Promoting Connectivity of Network-Like Structures by Enforcing Region Separation. [[Paper]](https://arxiv.org/pdf/2009.07011.pdf)
+
 
 **Datasets**
 
