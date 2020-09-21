@@ -85,3 +85,5 @@ A curated list of resources for Delineation
 + 2018 - APLS:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
 
 + 2018-CVPR - Junctin Score:- RoadTracer: Automatic Extraction of Road Networks From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bastani_RoadTracer_Automatic_Extraction_CVPR_2018_paper.html)
+
++ 2020-ECCV - Towards Reliable Evaluation of Road Network Reconstructions. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6424_ECCV_2020_paper.php)
