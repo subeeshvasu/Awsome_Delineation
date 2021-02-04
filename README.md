@@ -42,6 +42,8 @@ A curated list of resources for Delineation
 
 + 2018-BMVC - Iterative Deep Learning for Road Topology Extraction. [[Paper]](https://arxiv.org/abs/1808.09814)
 
++ 2018-SReports - Whole-brain vasculature reconstruction at the single capillary level. [[Paper]](https://www.nature.com/articles/s41598-018-30533-3)
+
 + 2019-CVPR - Leveraging Crowdsourced GPS Data for Road Extraction From Aerial Imagery. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Leveraging_Crowdsourced_GPS_Data_for_Road_Extraction_From_Aerial_Imagery_CVPR_2019_paper.html)[[Code]](https://github.com/suniique/Leveraging-Crowdsourced-GPS-Data-for-Road-Extraction-from-Aerial-Imagery)
 
 + 2019-CVPR - Improved Road Connectivity by Joint Learning of Orientation and Segmentation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Batra_Improved_Road_Connectivity_by_Joint_Learning_of_Orientation_and_Segmentation_CVPR_2019_paper.html)[[Code]](https://github.com/anilbatra2185/road_connectivity)
