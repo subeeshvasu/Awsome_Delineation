@@ -58,6 +58,8 @@ A curated list of resources for Delineation
 
 + 2019-TPAMI - Joint Segmentation and Path Classication of Curvilinear Structures. [[Paper]](https://arxiv.org/abs/1905.03892)
 
++ 2019-Arxiv -  Image-conditioned graph generation for road network extraction. [[Paper]](https://arxiv.org/abs/1910.14388)[[Code]](https://github.com/davide-belli/generative-graph-transformer)
+
 + 2020-WACV - Reconstructing Road Network Graphs from both Aerial Lidar and Images. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Parajuli_Reconstructing_Road_Network_Graphs_from_both_Aerial_Lidar_and_Images_WACV_2020_paper.html)
 
 + 2020-WACV - City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Van_Etten_City-Scale_Road_Extraction_from_Satellite_Imagery_v2_Road_Speeds_and_WACV_2020_paper.html)
@@ -68,9 +70,9 @@ A curated list of resources for Delineation
 
 + 2020-ECCV - TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf)
 
-+ 2020 - Promoting Connectivity of Network-Like Structures by Enforcing Region Separation. [[Paper]](https://arxiv.org/pdf/2009.07011.pdf)
++ 2020-Arxiv - Promoting Connectivity of Network-Like Structures by Enforcing Region Separation. [[Paper]](https://arxiv.org/pdf/2009.07011.pdf)
 
-+ 2020 - clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation. [[Paper]](https://arxiv.org/pdf/2003.07311.pdf)[[Code]](https://github.com/cpuimage/clDice)
++ 2020-Arxiv - clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation. [[Paper]](https://arxiv.org/pdf/2003.07311.pdf)[[Code]](https://github.com/cpuimage/clDice)
 
 **Datasets**
 
