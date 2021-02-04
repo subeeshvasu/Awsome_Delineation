@@ -12,6 +12,8 @@ A curated list of resources for Delineation
 
 + 2010-ECCV - Learning to Detect Roads in High-Resolution Aerial Images. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/road_detection.pdf)
 
++ 2011-ICCV -  Probabilistic image segmentation with closedness constraints. [[Paper]](https://ipa.iwr.uni-heidelberg.de/dokuwiki/Papers/andres2011probabilistic.pdf)
+
 + 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~vmnih/docs/noisy_maps.pdf)
 
 + 2013-CVPR - A Higher-Order CRF Model for Road Network Extraction. [[Paper]](https://ieeexplore.ieee.org/document/6619066)
