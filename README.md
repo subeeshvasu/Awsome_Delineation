@@ -52,6 +52,8 @@ A curated list of resources for Delineation
 
 + 2019-NIPS - Topology-Preserving Deep Image Segmentation. [[Paper]](https://papers.nips.cc/paper/8803-topology-preserving-deep-image-segmentation.pdf)[[Code1]](https://github.com/HuXiaoling/TopoLoss)[[Code2]](https://github.com/HuXiaoling/imageSeg-2.5D_topo)
 
++ 2019-MICCAI - A deep learning design for improving topology coherence in blood vessel segmentation. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_11)[[Code]](https://github.com/rjtaraujo/dvae-refiner)
+
 + 2019-TGRS - Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net. [[Paper]](https://ieeexplore.ieee.org/document/8714072)
 
 + 2019-TPAMI - Joint Segmentation and Path Classication of Curvilinear Structures. [[Paper]](https://arxiv.org/abs/1905.03892)
