@@ -20,6 +20,8 @@ A curated list of resources for Delineation
 
 + 2013-CVPR - Reconstructing Loopy Curvilinear Structures Using Integer Programming.[[Paper]](https://ieeexplore.ieee.org/document/6619082)
 
++ 2016-MICCAI - Topology Aware Fully Convolutional Networks For Histology Gland Segmentation. [[Paper]](http://www.sfu.ca/~abentaie/papers/miccai16.pdf)[[Code]](http://www.sfu.ca/~abentaie/topo_fcn/topo_fcn.html)
+
 + 2017-ICCV - DeepRoadMapper: Extracting Road Topology From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Mattyus_DeepRoadMapper_Extracting_Road_ICCV_2017_paper.html)
 
 + 2018-CVPR - Beyond the Pixel-Wise Loss for Topology-Aware Delineation. [[Paper]](https://arxiv.org/abs/1712.02190)
