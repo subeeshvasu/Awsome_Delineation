@@ -72,6 +72,8 @@ A curated list of resources for Delineation
 
 + 2020-ECCV - TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf)
 
++ 2020-TPAMI - A Topological Loss Function for Deep-Learning based Image Segmentation using Persistent Homology. [[Paper]](https://arxiv.org/abs/1910.01877)
+
 + 2020-Arxiv - Promoting Connectivity of Network-Like Structures by Enforcing Region Separation. [[Paper]](https://arxiv.org/pdf/2009.07011.pdf)
 
 + 2020-Arxiv - clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation. [[Paper]](https://arxiv.org/pdf/2003.07311.pdf)[[Code]](https://github.com/cpuimage/clDice)
