@@ -66,7 +66,7 @@ A curated list of resources for Delineation
 
 + 2020 - Promoting Connectivity of Network-Like Structures by Enforcing Region Separation. [[Paper]](https://arxiv.org/pdf/2009.07011.pdf)
 
-+ 2020 - clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation. [[Paper]](https://arxiv.org/pdf/2003.07311.pdf)
++ 2020 - clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation. [[Paper]](https://arxiv.org/pdf/2003.07311.pdf)[[Code]](https://github.com/cpuimage/clDice)
 
 **Datasets**
 
