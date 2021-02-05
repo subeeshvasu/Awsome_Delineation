@@ -12,6 +12,10 @@ A curated list of resources for Delineation
 
 + 1995-IJPRAI - On topology preservation in 2-D and 3-D thinning. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1049966084710230)
 
++ 1995-PR - A skeletonization algorithm by maxima tracking on euclidean distance transform. [[Paper]](https://www.sciencedirect.com/science/article/pii/003132039400104T)
+
++ 1995-IVC - Skeletonization using an extended euclidean distance transform. [[Paper]](https://www.sciencedirect.com/science/article/pii/026288569599723E)
+
 + 1996-TPAMI - Automatic finding of main roads in aerial images by using geometric-stochastic models and estimation. [[Paper]](https://ieeexplore.ieee.org/document/341090)
 
 + 2000-MVA - Automatic Extraction of Roads from Aerial Images Based on Scale Space and Snakes. [[Paper]](http://www.irisa.fr/vista/Papers/2000_mva_laptev.pdf)
@@ -20,9 +24,15 @@ A curated list of resources for Delineation
 
 + 2003-TPAMI - A topology preserving level set method for geometric deformable models. [[Paper]](https://core.ac.uk/download/pdf/22876105.pdf)
 
++ 2004-TMI - Ridge-based vessel segmentation in color images of the retina. [[Paper]](https://ieeexplore.ieee.org/document/1282003)
+
 + 2004-CSUR - A review of vessel extraction techniques and algorithms. [[Paper]](https://dl.acm.org/doi/10.1145/1031120.1031121)
 
 + 2004-IJCV - A Gibbs Point Process for Road Extraction from Remotely Sensed Images. [[Paper]](https://link.springer.com/article/10.1023/B:VISI.0000013086.45688.5d)
+
++ 2008-CVPR - Graph cut based image segmentation with connectivity priors. [[Paper]](https://ieeexplore.ieee.org/document/4587440)
+
++ 2008-CVIU - Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in n–d images. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314208001094)
 
 + 2009-CVPR - Global connectivity potentials for random field models. [[Paper]](https://ieeexplore.ieee.org/document/5206567)
 
@@ -36,9 +46,17 @@ A curated list of resources for Delineation
 
 + 2013-CVPR - Reconstructing Loopy Curvilinear Structures Using Integer Programming.[[Paper]](https://ieeexplore.ieee.org/document/6619082)
 
++ 2013-ICCV - Tree shape priors with connectivity constraints using convex relaxation on general graphs. [[Paper]](https://ieeexplore.ieee.org/document/6751401)
+
 + 2014-ECCV - Generalized connectivity constraints for spatio-temporal 3D reconstruction. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_3)
 
++ 2015-MIA - Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841514001455)
+
 + 2016-MICCAI - Topology Aware Fully Convolutional Networks For Histology Gland Segmentation. [[Paper]](http://www.sfu.ca/~abentaie/papers/miccai16.pdf)[[Code]](http://www.sfu.ca/~abentaie/topo_fcn/topo_fcn.html)
+
++ 2016-ISBI - Deep vessel tracking: A generalized probabilistic approach via deep learning. [[Paper]](https://www.sciencedirect.com/science/article/pii/026288569599723E)
+
++ 2016-TPAMI - Reconstructing curvilinear networks using path classifiers and integer programming. [[Paper]](https://ieeexplore.ieee.org/document/7405348)
 
 + 2017-ICCV - DeepRoadMapper: Extracting Road Topology From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Mattyus_DeepRoadMapper_Extracting_Road_ICCV_2017_paper.html)
 
@@ -66,9 +84,13 @@ A curated list of resources for Delineation
 
 + 2018-BMVC - Iterative Deep Learning for Road Topology Extraction. [[Paper]](https://arxiv.org/abs/1808.09814)
 
++ 2018-MICCAI - A multi-task network to detect junctions in retinal vasculature. [[Paper]](https://arxiv.org/abs/1806.03175)
+
 + 2018-NeuroComp - Retinal vessel segmentation of color fundus images using multiscale convolutional neural network with an improved cross-entropy loss function. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231218305423)
 
 + 2018-SReports - Whole-brain vasculature reconstruction at the single capillary level. [[Paper]](https://www.nature.com/articles/s41598-018-30533-3)
+
++ 2018-Arxiv -  Deepvesselnet: Vessel segmentation, centerline prediction, and bifurcation detection in 3-d angiographic volumes. [[Paper]](https://arxiv.org/abs/1803.09340)
 
 + 2019-CVPR - Leveraging Crowdsourced GPS Data for Road Extraction From Aerial Imagery. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Leveraging_Crowdsourced_GPS_Data_for_Road_Extraction_From_Aerial_Imagery_CVPR_2019_paper.html)[[Code]](https://github.com/suniique/Leveraging-Crowdsourced-GPS-Data-for-Road-Extraction-from-Aerial-Imagery)
 
@@ -93,6 +115,8 @@ A curated list of resources for Delineation
 + 2019-TPAMI - Large scale image segmentation with structured loss based deep learning for connectome reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)
 
 + 2019-Arxiv -  Image-conditioned graph generation for road network extraction. [[Paper]](https://arxiv.org/abs/1910.14388)[[Code]](https://github.com/davide-belli/generative-graph-transformer)
+
++ 2019-biorxiv - Automated analysis of whole brain vasculature using machine learning. [[Paper]](https://www.biorxiv.org/content/10.1101/613257v1)
 
 + 2020-WACV - Reconstructing Road Network Graphs from both Aerial Lidar and Images. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Parajuli_Reconstructing_Road_Network_Graphs_from_both_Aerial_Lidar_and_Images_WACV_2020_paper.html)
 
